@@ -2,3 +2,6 @@
 .idea/tasks.xml
 
 out
+
+.idea/*
+build/*

@@ -5,6 +5,9 @@ public class Item {
     private final int wholesalePrice;
     private final int retailPrice;
 
+    
+
+
     public Item(String name, int wholesalePrice, int retailPrice) {
         this.name = name;
         this.wholesalePrice = wholesalePrice;
